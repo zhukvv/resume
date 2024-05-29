@@ -12,3 +12,5 @@ My hard skills are 
 - PostgreSQL,
 - Python (Pandas, Numpy, Seanorn, Plotly.Express, Matplotlib),
 -  Tableau. 
+
+Download my resume to learn more. 
