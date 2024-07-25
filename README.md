@@ -5,12 +5,12 @@
 Open-mindedness and flexible thinking, great love and the ability for learning are my strengths. 
 
 My hard skills are 
-- maintenance of document flows,
+- Python (Pandas, Numpy, Seanorn, Plotly.Express, Matplotlib),
+- PostgreSQL,
+- Tableau,
 - SAP, 
 - Directum RX,
 - MS Office (Outlook, Word, Excel, Power Point),
-- PostgreSQL,
-- Python (Pandas, Numpy, Seanorn, Plotly.Express, Matplotlib),
--  Tableau. 
+-  maintenance of document flows. 
 
 Download my resume to learn more. 
